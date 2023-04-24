@@ -1,1 +1,1 @@
-Release
+Beta release of RADii.
